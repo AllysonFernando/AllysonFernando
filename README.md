@@ -60,8 +60,8 @@
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=allyson-fernando&show_icons=true&hide_border=true&theme=vision-friendly-dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=allyson-fernando&theme=vision-friendly-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD0000" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=allysonfernando&show_icons=true&hide_border=true&theme=vision-friendly-dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=allysonfernando&theme=vision-friendly-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD0000" />
 </p>
 
 ---
