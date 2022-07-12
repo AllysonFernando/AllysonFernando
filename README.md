@@ -1,4 +1,4 @@
-# Olá, Sou Allyson! É bom ver você por aqui! <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/wave.gif?token=ATQS65XWY4MME7NJYAZ4LCTBN34AU" width="70px">
+# Olá, Sou Allyson! É bom ver você por aqui! <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/wave.gif?token=ATQS65XWY4MME7NJYAZ4LCTBN34AU" width="40%">
 
 <div display= "inline-block">
 <p align= "left">Tenho 33 anos, sou engenheiro civil e um apaixonado por tecnologia,
