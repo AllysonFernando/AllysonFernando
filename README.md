@@ -66,5 +66,5 @@
 
 ---
 
-![Snake animation](https://github.com/allyson-fernando/allyson-fernando/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/allyson-fernando/allysonfernando/blob/output/github-contribution-grid-snake.svg)
 </div>
